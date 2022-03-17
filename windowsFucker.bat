@@ -1,7 +1,5 @@
 @echo off
 
-start msgbox.vbs
-
 start computerFucked.txt
 
 start windowsFuckerStopFuckTheFuck.py
